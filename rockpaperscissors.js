@@ -81,7 +81,6 @@ function playGame() {
         console.log("Computer Wins");
     }
 
-    
 }
 
 // call playGame function
