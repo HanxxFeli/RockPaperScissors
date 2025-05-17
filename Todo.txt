@@ -1,0 +1,18 @@
+I. HTML and CSS (use Bootstrap for Designing)
+1. Nav Menu/Header
+    a. display the name "Rock Paper Scissors" at the left side of the Nav Menu (done)
+
+
+2. Horizontal Line to separate the footer 
+3. Create a footer that includes the following: 
+    a. the odin project credits
+    b. name credits
+
+4. Separate the html into two sides (horizontal or vertical): one for the user and one for the computer 
+    a. User 
+        i. 3 Boxes to display the images of rock paper and scissors 
+        ii. 1 box to display the chosen pick of the user 
+    b. computer 
+        i. 1 box to display what was chosen by the computer 
+
+II. Javascript 
